@@ -1,0 +1,11 @@
+{
+  "vendor": "wrnch Inc.",
+  "license": {
+    "product": "wrnchAI engine",
+    "version": "1.99",
+    "expiry": "2019-10-05",
+    "hostid": "any",
+    "customer": "McGill",
+    "signature": "3040021e6d95a9b4b2c8f8621d6c06e534e75bbcb4dfaa69814b9bb834ac60898263021e44af057e862c6d3320a6ee33e02a21ed49f911f8b9a88b79029ae2cb3661"
+  }
+}
